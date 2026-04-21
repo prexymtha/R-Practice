@@ -42,8 +42,8 @@ source("anscombe_quartet_regression_and_visualisation.R")
 # Data
 
 Anscombe’s Quartet (`datasets::anscombe`, built into R) consists of four
-(x, y) pairs – 11 observations each – constructed to share nearly
-identical descriptive statistics.
+(x, y) pairs – 11 observations each – that share nearly
+identical descriptive statistics (as seen in the summary statistics).
 
 ``` r
 glimpse(anscombe_df)
