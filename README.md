@@ -1,5 +1,5 @@
 # Anscombe's Quartet: Visualising the Limits of Summary Statistics
-## Precious Nhamo
+## Author : Precious Nhamo
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   echo      = TRUE,
