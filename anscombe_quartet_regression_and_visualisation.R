@@ -107,3 +107,11 @@ plot_x4_y4 <- ggplot(anscombe_df, aes(x = x4, y = y4)) +
 plot_x4_y4
 
 
+
+
+
+
+
+
+
+
