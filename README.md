@@ -1,9 +1,5 @@
-title: "Anscombe's Quartet: Visualising the Limits of Summary Statistics"
-author: "Precious Nhamo"
-date: "`r Sys.Date()`"
-output: github_document
-
-
+# Anscombe's Quartet: Visualising the Limits of Summary Statistics
+## Precious Nhamo
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   echo      = TRUE,
