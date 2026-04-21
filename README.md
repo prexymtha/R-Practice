@@ -23,7 +23,7 @@ Nature Singapore. Chapter 4.
 # Setup
 
 ``` r
-source("anscombe_quartet_regression_and_visualisation.R")
+source("ansquartet.R")
 ```
 
     ## Rows: 11
